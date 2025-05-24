@@ -1,0 +1,41 @@
+{
+  "title": "Moriarty The Patriot : Part 2 ",
+  "description": "",
+  "artist": "Miyoshi Hikaru",
+  "author": "Miyoshi Hikaru",
+  "cover": "https://dosbg3xlm0x1t.cloudfront.net/images/items/9784088845203/1200/9784088845203.jpg",
+  "chapters": {
+    "77": {
+      "title": "The Scarlet Footsteps ",
+      "volume": "20",
+      "last_updated": "1748114688",
+      "groups": {
+        "We Intentionally Exude Calmness ": "/proxy/api/imgur/chapter/4MdDcTX"
+      }
+    },
+    "78": {
+      "title": "James Moriarty The Consultant ",
+      "volume": "20",
+      "last_updated": "1748114718",
+      "groups": {
+        "We Intentionally Exude Calmness ": "/proxy/api/imgur/chapter/43ybRnZ"
+      }
+    },
+    "79": {
+      "title": "The Adventure Of The Speckled Band : Act 1",
+      "volume": "20",
+      "last_updated": "1748114767",
+      "groups": {
+        "We Intentionally Exude Calmness ": "/proxy/api/imgur/chapter/kQAlrGV"
+      }
+    },
+    "80": {
+      "title": "The Adventure Of The Speckled Band : Act 2 ",
+      "volume": "20",
+      "last_updated": "1748114835",
+      "groups": {
+        "We Intentionally Exude Calmness ": "/proxy/api/imgur/chapter/iTn8CcW"
+      }
+    }
+  }
+}
